@@ -1,5 +1,7 @@
 # In-Distribution Knowledge Distillation (IDKD)
 
+This is the official implementation for the paper "Homogenizing Non-IID datasets via In-Distribution Knowledge Distillation for Decentralized Learning"
+
 ## Requirements
 ```
 - pytorch 1.7.1
