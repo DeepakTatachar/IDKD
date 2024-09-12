@@ -1,6 +1,20 @@
 # In-Distribution Knowledge Distillation (IDKD)
 
 This is the official implementation for the paper "Homogenizing Non-IID datasets via In-Distribution Knowledge Distillation for Decentralized Learning"
+Accepted at Transactions on Machine Learning Research (TMLR) [paper link](https://openreview.net/pdf?id=CuyJkNjIVd)
+
+If you use this code please consider citing
+```bibtex
+@article{
+  ravikumar2024homogenizing,
+  title={Homogenizing Non-{IID} Datasets via In-Distribution Knowledge Distillation for Decentralized Learning},
+  author={Deepak Ravikumar and Gobinda Saha and Sai Aparna Aketi and Kaushik Roy},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
+  year={2024},
+  url={https://openreview.net/forum?id=CuyJkNjIVd},
+}
+```
 
 ## Requirements
 ```
