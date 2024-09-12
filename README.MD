@@ -1,7 +1,7 @@
 # In-Distribution Knowledge Distillation (IDKD)
 
 This is the official implementation for the paper "Homogenizing Non-IID datasets via In-Distribution Knowledge Distillation for Decentralized Learning"
-Accepted at Transactions on Machine Learning Research (TMLR) [paper link](https://openreview.net/pdf?id=CuyJkNjIVd)
+Accepted at Transactions on Machine Learning Research (TMLR) [paper link](https://openreview.net/pdf?id=CuyJkNjIVd), [video](https://youtu.be/I-den-2TNyk)
 
 If you use this code please consider citing
 ```bibtex
